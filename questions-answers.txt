@@ -1,0 +1,10 @@
+Attached with your code, provide an answer to the following questions:
+
+1. Why did you choose this dataset?
+Initially I chosed the heart risk dataset, but I found out it was for classification model, which is not suitable for linear regression model. So I switched to game-grade dataset. I am interested in finding some data regarding correlations regarding play hrs, and grade, but I had a difficulty because this dataset is not very linear, or maybe I just suck at this lol.
+
+2. What is your conclusion upon conducting linear regression on this dataset?
+The model is not highly accurate as evidence on the high mse. Linear regression is not good regarding non-linear patterns which the dataset have, which is why the accuracy dropped. Multi linear is better than single linear regression model as it can find or correlate with more factors and provide much more accurate result as long as you first correctly analyze the and find the more correlated data in the dataset.
+
+3. How relevant is linear regression today?
+Based on my research linear regression still relevant especially on housing prices (based on my experience watching yt tutorials). Linear regression has many uses, but its only relevant on data that is linear or closely linear.
